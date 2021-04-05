@@ -1,0 +1,335 @@
+﻿CHILD,CHILD_ID,IS_CHILD_OF,PARENT,PARENT_ID
+47-Kamil Poturnaj ,47,is child of,39-Ján Poturnaj Poturnaj,39
+42-Anna  Poturnajová,42,is child of,41-Vladimír Poturnaj ,41
+46-Jana Košťányová ,46,is child of,10-Irena Košťányová Košťányová,10
+46-Jana Košťányová ,46,is child of,11-Karol Košťány ,11
+45-Veronika Košťányová ,45,is child of,10-Irena Košťányová Košťányová,10
+45-Veronika Košťányová ,45,is child of,11-Karol Košťány ,11
+44-František Košťány Košťány,44,is child of,10-Irena Košťányová Košťányová,10
+44-František Košťány Košťány,44,is child of,11-Karol Košťány ,11
+43-Jozef Košťány Košťány,43,is child of,10-Irena Košťányová Košťányová,10
+43-Jozef Košťány Košťány,43,is child of,11-Karol Košťány ,11
+39-Ján Poturnaj Poturnaj,39,is child of,9-Marcela Košťányová Poturnajová,9
+39-Ján Poturnaj Poturnaj,39,is child of,12-Michal Poturnaj Poturnaj,12
+40-Mária Poturnajová ,40,is child of,9-Marcela Košťányová Poturnajová,9
+40-Mária Poturnajová ,40,is child of,12-Michal Poturnaj Poturnaj,12
+41-Vladimír Poturnaj ,41,is child of,9-Marcela Košťányová Poturnajová,9
+41-Vladimír Poturnaj ,41,is child of,12-Michal Poturnaj Poturnaj,12
+37-Milka Košťányová ,37,is child of,8-Jozef Košťány Košťány,8
+37-Milka Košťányová ,37,is child of,13-Angela  ,13
+36-Milan Košťány Košťány,36,is child of,8-Jozef Košťány Košťány,8
+36-Milan Košťány Košťány,36,is child of,13-Angela  ,13
+35-Jozef Košťány Košťány,35,is child of,8-Jozef Košťány Košťány,8
+35-Jozef Košťány Košťány,35,is child of,13-Angela  ,13
+34-Miroslav Košťány Košťány,34,is child of,8-Jozef Košťány Košťány,8
+34-Miroslav Košťány Košťány,34,is child of,13-Angela  ,13
+33-Jozef Drápal Drápal,33,is child of,26-Jana Podolská Drápalová,26
+33-Jozef Drápal Drápal,33,is child of,23-Peter Drápal Drápal,23
+32-Peter Drápal Drápal,32,is child of,26-Jana Podolská Drápalová,26
+32-Peter Drápal Drápal,32,is child of,23-Peter Drápal Drápal,23
+31-Mária Homolová ,31,is child of,24-Mária Drápalová Homolová,24
+31-Mária Homolová ,31,is child of,27-Jaroslav Homola Homola,27
+30-Martin Homola Homola,30,is child of,24-Mária Drápalová Homolová,24
+30-Martin Homola Homola,30,is child of,27-Jaroslav Homola Homola,27
+28-Anton Haring Haring,28,is child of,25-Eva Drápalová Haringová,25
+29-Anton Haring Haring,29,is child of,28-Anton Haring Haring,28
+23-Peter Drápal Drápal,23,is child of,22-Štefan Drápal Drápal,22
+23-Peter Drápal Drápal,23,is child of,17-Štefánia Košťányová Drápalová,17
+24-Mária Drápalová Homolová,24,is child of,22-Štefan Drápal Drápal,22
+24-Mária Drápalová Homolová,24,is child of,17-Štefánia Košťányová Drápalová,17
+25-Eva Drápalová Haringová,25,is child of,22-Štefan Drápal Drápal,22
+25-Eva Drápalová Haringová,25,is child of,17-Štefánia Košťányová Drápalová,17
+21-Igor Mihina Mihina,21,is child of,19-Eva Košťányová Mihinová,19
+21-Igor Mihina Mihina,21,is child of,20-Igor Mihina Mihina,20
+234-Peter Mihina Mihina,234,is child of,19-Eva Košťányová Mihinová,19
+234-Peter Mihina Mihina,234,is child of,20-Igor Mihina Mihina,20
+19-Eva Košťányová Mihinová,19,is child of,7-Štefan Košťány Košťány,7
+19-Eva Košťányová Mihinová,19,is child of,14-Františka  ,14
+18-Miroslav Košťány Košťány,18,is child of,7-Štefan Košťány Košťány,7
+18-Miroslav Košťány Košťány,18,is child of,14-Františka  ,14
+17-Štefánia Košťányová Drápalová,17,is child of,7-Štefan Košťány Košťány,7
+17-Štefánia Košťányová Drápalová,17,is child of,14-Františka  ,14
+2-Štefan Horanský Horanský,2,is child of,1-Pavel Horanský Horanský,1
+3-Zuzana Horanská Budzáková,3,is child of,1-Pavel Horanský Horanský,1
+49-Gizela Budzáková ,49,is child of,3-Zuzana Horanská Budzáková,3
+49-Gizela Budzáková ,49,is child of,48-Július Budzák Budzák,48
+50-Július Budzák Budzák,50,is child of,3-Zuzana Horanská Budzáková,3
+50-Július Budzák Budzák,50,is child of,48-Július Budzák Budzák,48
+89-Jana Budzáková Hanigovská,89,is child of,50-Július Budzák Budzák,50
+89-Jana Budzáková Hanigovská,89,is child of,51-Júlia Jevicová Budzáková,51
+91-Danka Budzáková Milkovská,91,is child of,50-Július Budzák Budzák,50
+91-Danka Budzáková Milkovská,91,is child of,51-Júlia Jevicová Budzáková,51
+90-Júlia Budzáková Úrodová,90,is child of,50-Július Budzák Budzák,50
+90-Júlia Budzáková Úrodová,90,is child of,51-Júlia Jevicová Budzáková,51
+96-Jozef Úroda Úroda,96,is child of,90-Júlia Budzáková Úrodová,90
+96-Jozef Úroda Úroda,96,is child of,94-Jozef Úroda Úroda,94
+95-Zuzana Úrodová ,95,is child of,90-Júlia Budzáková Úrodová,90
+95-Zuzana Úrodová ,95,is child of,94-Jozef Úroda Úroda,94
+97-Dávid Milkovský Milkovský,97,is child of,91-Danka Budzáková Milkovská,91
+97-Dávid Milkovský Milkovský,97,is child of,93-Jozef Milkovský Milkovský,93
+98-Martin Hanigovský Hanigovský,98,is child of,89-Jana Budzáková Hanigovská,89
+98-Martin Hanigovský Hanigovský,98,is child of,92-Peter Hanigovský Hanigovský,92
+99-Peter Hanigovský Hanigovský,99,is child of,89-Jana Budzáková Hanigovská,89
+99-Peter Hanigovský Hanigovský,99,is child of,92-Peter Hanigovský Hanigovský,92
+52-Štefan Kosmál Kosmál,52,is child of,5-Aranka Košťányová Kosmálová,5
+52-Štefan Kosmál Kosmál,52,is child of,16-Karol Kosmál Kosmál,16
+53-Cecília Kosmálová Divincová,53,is child of,5-Aranka Košťányová Kosmálová,5
+53-Cecília Kosmálová Divincová,53,is child of,16-Karol Kosmál Kosmál,16
+54-Rudolf Kosmál Kosmál,54,is child of,5-Aranka Košťányová Kosmálová,5
+54-Rudolf Kosmál Kosmál,54,is child of,16-Karol Kosmál Kosmál,16
+55-Veronika Kosmálová Juricová,55,is child of,5-Aranka Košťányová Kosmálová,5
+55-Veronika Kosmálová Juricová,55,is child of,16-Karol Kosmál Kosmál,16
+57-Ludvík Sobotovič Sobotovič,57,is child of,6-Karolína Košťányová Sobotovičová,6
+57-Ludvík Sobotovič Sobotovič,57,is child of,15-Ignác Sobotovič Sobotovič,15
+59-Cecília Sobotovičová Královičová,59,is child of,6-Karolína Košťányová Sobotovičová,6
+59-Cecília Sobotovičová Královičová,59,is child of,15-Ignác Sobotovič Sobotovič,15
+60-Marta Královičová ,60,is child of,59-Cecília Sobotovičová Královičová,59
+60-Marta Královičová ,60,is child of,58- Královič Královič,58
+61-Vincent Královič Královič,61,is child of,59-Cecília Sobotovičová Královičová,59
+61-Vincent Královič Královič,61,is child of,58- Královič Královič,58
+72-Lucia Juricová ,72,is child of,62-Vladimír Jurica Jurica,62
+71-Martin Jurica Jurica,71,is child of,62-Vladimír Jurica Jurica,62
+70-Kristína Juricová ,70,is child of,62-Vladimír Jurica Jurica,62
+182-Ladislav Srnka Srnka,182,is child of,181- Pekáriková Srnková,181
+183-Amália Srnková ,183,is child of,181- Pekáriková Srnková,181
+184-Gizela Srnková ,184,is child of,181- Pekáriková Srnková,181
+185-Vilma Srnková ,185,is child of,181- Pekáriková Srnková,181
+186-Ľudmila Srnková Botorče,186,is child of,181- Pekáriková Srnková,181
+69-Veronika Juricová ,69,is child of,55-Veronika Kosmálová Juricová,55
+69-Veronika Juricová ,69,is child of,63-Dušan Jurica Jurica,63
+68-Juraj Jurica Jurica,68,is child of,55-Veronika Kosmálová Juricová,55
+68-Juraj Jurica Jurica,68,is child of,63-Dušan Jurica Jurica,63
+67-Dorota Juricová ,67,is child of,55-Veronika Kosmálová Juricová,55
+67-Dorota Juricová ,67,is child of,63-Dušan Jurica Jurica,63
+66-Terézia Juricová ,66,is child of,55-Veronika Kosmálová Juricová,55
+66-Terézia Juricová ,66,is child of,63-Dušan Jurica Jurica,63
+73-Danka Divincová ,73,is child of,53-Cecília Kosmálová Divincová,53
+73-Danka Divincová ,73,is child of,64-Karol Divinec Divinec,64
+74-Jana Divincová ,74,is child of,53-Cecília Kosmálová Divincová,53
+74-Jana Divincová ,74,is child of,64-Karol Divinec Divinec,64
+75-Matej  ,75,is child of,73-Danka Divincová ,73
+76-Miroslav  ,76,is child of,73-Danka Divincová ,73
+81-Štefan Kosmál Kosmál,81,is child of,65-Jozefína  Kosmálová,65
+81-Štefan Kosmál Kosmál,81,is child of,52-Štefan Kosmál Kosmál,52
+80-Anna Kosmálová ,80,is child of,65-Jozefína  Kosmálová,65
+80-Anna Kosmálová ,80,is child of,52-Štefan Kosmál Kosmál,52
+79-Alena Kosmálová ,79,is child of,65-Jozefína  Kosmálová,65
+79-Alena Kosmálová ,79,is child of,52-Štefan Kosmál Kosmál,52
+78-Anton Kosmál Kosmál,78,is child of,65-Jozefína  Kosmálová,65
+78-Anton Kosmál Kosmál,78,is child of,52-Štefan Kosmál Kosmál,52
+77-Eva Kosmálová ,77,is child of,65-Jozefína  Kosmálová,65
+77-Eva Kosmálová ,77,is child of,52-Štefan Kosmál Kosmál,52
+84-Miroslav Melicher Melicher,84,is child of,82-Miroslav Melicher Melicher,82
+84-Miroslav Melicher Melicher,84,is child of,79-Alena Kosmálová ,79
+85-Martin Melicher Melicher,85,is child of,82-Miroslav Melicher Melicher,82
+85-Martin Melicher Melicher,85,is child of,79-Alena Kosmálová ,79
+88-Ivana Profousová ,88,is child of,83-Pavel Profous Profous,83
+88-Ivana Profousová ,88,is child of,80-Anna Kosmálová ,80
+87-Zuzana Profousová ,87,is child of,83-Pavel Profous Profous,83
+87-Zuzana Profousová ,87,is child of,80-Anna Kosmálová ,80
+86-Tomáš Profous Profous,86,is child of,83-Pavel Profous Profous,83
+86-Tomáš Profous Profous,86,is child of,80-Anna Kosmálová ,80
+138-Vojtech Skorodenský Skorodenský,138,is child of,135-Michal Skorodenský Skorodenský,135
+138-Vojtech Skorodenský Skorodenský,138,is child of,136-Katarína Tobáková Skorodenská,136
+140-Ilona Skorodenská Markusová ?,140,is child of,135-Michal Skorodenský Skorodenský,135
+140-Ilona Skorodenská Markusová ?,140,is child of,136-Katarína Tobáková Skorodenská,136
+141-Vilma Skorodenská ,141,is child of,135-Michal Skorodenský Skorodenský,135
+141-Vilma Skorodenská ,141,is child of,136-Katarína Tobáková Skorodenská,136
+142-Július Skorodenský Skorodenský,142,is child of,135-Michal Skorodenský Skorodenský,135
+142-Július Skorodenský Skorodenský,142,is child of,136-Katarína Tobáková Skorodenská,136
+144-Viktor Skorodenský Skorodenský,144,is child of,135-Michal Skorodenský Skorodenský,135
+144-Viktor Skorodenský Skorodenský,144,is child of,136-Katarína Tobáková Skorodenská,136
+146-Michal Skorodenský Skorodenský,146,is child of,135-Michal Skorodenský Skorodenský,135
+146-Michal Skorodenský Skorodenský,146,is child of,136-Katarína Tobáková Skorodenská,136
+148-Katarína Skorodenská Boldižárová,148,is child of,135-Michal Skorodenský Skorodenský,135
+148-Katarína Skorodenská Boldižárová,148,is child of,136-Katarína Tobáková Skorodenská,136
+157-Štefan Makara Makara,157,is child of,156-Štefan Makara Makara,156
+157-Štefan Makara Makara,157,is child of,155-Gréta Skorodenská Makarová,155
+158-Mária Makarová ,158,is child of,156-Štefan Makara Makara,156
+158-Mária Makarová ,158,is child of,155-Gréta Skorodenská Makarová,155
+155-Gréta Skorodenská Makarová,155,is child of,143-Klára  Skorodenská,143
+155-Gréta Skorodenská Makarová,155,is child of,144-Viktor Skorodenský Skorodenský,144
+153-Viktor Skorodenský Skorodenský,153,is child of,143-Klára  Skorodenská,143
+153-Viktor Skorodenský Skorodenský,153,is child of,144-Viktor Skorodenský Skorodenský,144
+151-Miroslav Skorodenský Skorodenský,151,is child of,143-Klára  Skorodenská,143
+151-Miroslav Skorodenský Skorodenský,151,is child of,144-Viktor Skorodenský Skorodenský,144
+150-Soňa Skorodenská ,150,is child of,145-Júlia  Skorodenská,145
+150-Soňa Skorodenská ,150,is child of,146-Michal Skorodenský Skorodenský,146
+149-Oľga Skorodenská ,149,is child of,145-Júlia  Skorodenská,145
+149-Oľga Skorodenská ,149,is child of,146-Michal Skorodenský Skorodenský,146
+159-Viktor Skorodenský Skorodenský,159,is child of,153-Viktor Skorodenský Skorodenský,153
+159-Viktor Skorodenský Skorodenský,159,is child of,154-Petronela Krličková Skorodenská,154
+160-Richard Skorodenský Skorodenský,160,is child of,153-Viktor Skorodenský Skorodenský,153
+160-Richard Skorodenský Skorodenský,160,is child of,154-Petronela Krličková Skorodenská,154
+161-Veronika  Skorodenská,161,is child of,151-Miroslav Skorodenský Skorodenský,151
+161-Veronika  Skorodenská,161,is child of,152-Veronika  Skorodenská,152
+162-Roman Skorodenský Skorodenský,162,is child of,151-Miroslav Skorodenský Skorodenský,151
+162-Roman Skorodenský Skorodenský,162,is child of,152-Veronika  Skorodenská,152
+163-Miroslav Skorodenský Skorodenský,163,is child of,151-Miroslav Skorodenský Skorodenský,151
+163-Miroslav Skorodenský Skorodenský,163,is child of,152-Veronika  Skorodenská,152
+165-Etela Boldižárová Reitznerová,165,is child of,147-Jozef Boldižár Boldižár,147
+165-Etela Boldižárová Reitznerová,165,is child of,148-Katarína Skorodenská Boldižárová,148
+166-Helena Boldižárová Liptáková,166,is child of,147-Jozef Boldižár Boldižár,147
+166-Helena Boldižárová Liptáková,166,is child of,148-Katarína Skorodenská Boldižárová,148
+175-Ingrid Reitznerová ,175,is child of,165-Etela Boldižárová Reitznerová,165
+175-Ingrid Reitznerová ,175,is child of,164-Felix Reitzner Reitzner,164
+176-Henrich Reitzner Reitzner,176,is child of,165-Etela Boldižárová Reitznerová,165
+176-Henrich Reitzner Reitzner,176,is child of,164-Felix Reitzner Reitzner,164
+174-Hugo-Belo Bodík Bodík,174,is child of,172-Zuzana Liptáková Bodíková,172
+174-Hugo-Belo Bodík Bodík,174,is child of,173-Rastislav Bodík Bodík,173
+172-Zuzana Liptáková Bodíková,172,is child of,166-Helena Boldižárová Liptáková,166
+172-Zuzana Liptáková Bodíková,172,is child of,167-Ľubomír Lipták Lipták,167
+171-Ľubomíra Liptáková Horanská,171,is child of,166-Helena Boldižárová Liptáková,166
+171-Ľubomíra Liptáková Horanská,171,is child of,167-Ľubomír Lipták Lipták,167
+169-Slavomír Lipták Lipták,169,is child of,168-Lýdia Liptáková Liptáková,168
+168-Lýdia Liptáková Liptáková,168,is child of,125-Valentín Lipták Lipták,125
+168-Lýdia Liptáková Liptáková,168,is child of,126-Valéria Wintnerová Liptáková,126
+167-Ľubomír Lipták Lipták,167,is child of,125-Valentín Lipták Lipták,125
+167-Ľubomír Lipták Lipták,167,is child of,126-Valéria Wintnerová Liptáková,126
+134-Ján Krlička Krlička,134,is child of,127-Margita Wintnerová Krličková,127
+134-Ján Krlička Krlička,134,is child of,128-Ján Krlička Krlička,128
+129-Alexandra Krličková ,129,is child of,127-Margita Wintnerová Krličková,127
+129-Alexandra Krličková ,129,is child of,128-Ján Krlička Krlička,128
+131-Maroš Krlička Krlička,131,is child of,127-Margita Wintnerová Krličková,127
+131-Maroš Krlička Krlička,131,is child of,128-Ján Krlička Krlička,128
+132-Hilár Krlička Krlička,132,is child of,127-Margita Wintnerová Krličková,127
+132-Hilár Krlička Krlička,132,is child of,128-Ján Krlička Krlička,128
+154-Petronela Krličková Skorodenská,154,is child of,127-Margita Wintnerová Krličková,127
+154-Petronela Krličková Skorodenská,154,is child of,128-Ján Krlička Krlička,128
+133-Gorazd Krlička Krlička,133,is child of,127-Margita Wintnerová Krličková,127
+133-Gorazd Krlička Krlička,133,is child of,128-Ján Krlička Krlička,128
+127-Margita Wintnerová Krličková,127,is child of,115-Ľudovít Wintner Wintner,115
+127-Margita Wintnerová Krličková,127,is child of,116-Margita  Wintnerová,116
+126-Valéria Wintnerová Liptáková,126,is child of,115-Ľudovít Wintner Wintner,115
+126-Valéria Wintnerová Liptáková,126,is child of,116-Margita  Wintnerová,116
+104-Margita Stahovcová Forišová,104,is child of,100-Valent Stahovec Stahovec,100
+104-Margita Stahovcová Forišová,104,is child of,101-Veronika Liptáková Stahovcová,101
+105-Žofia Stahovcová Bujnovská,105,is child of,100-Valent Stahovec Stahovec,100
+105-Žofia Stahovcová Bujnovská,105,is child of,101-Veronika Liptáková Stahovcová,101
+106-Alojz Stahovec Stahovec,106,is child of,100-Valent Stahovec Stahovec,100
+106-Alojz Stahovec Stahovec,106,is child of,101-Veronika Liptáková Stahovcová,101
+110-Eva Bujnovská ,110,is child of,105-Žofia Stahovcová Bujnovská,105
+110-Eva Bujnovská ,110,is child of,108-Pavol Bujnovský Bujnovský,108
+111-Miroslav Bujnovský Bujnovský,111,is child of,105-Žofia Stahovcová Bujnovská,105
+111-Miroslav Bujnovský Bujnovský,111,is child of,108-Pavol Bujnovský Bujnovský,108
+112-Ľubomíra Bujnovská ,112,is child of,105-Žofia Stahovcová Bujnovská,105
+112-Ľubomíra Bujnovská ,112,is child of,108-Pavol Bujnovský Bujnovský,108
+117-Margita Marušáková Klapáčová,117,is child of,113-Ondrej Lipták Lipták,113
+117-Margita Marušáková Klapáčová,117,is child of,114-Mária Marušáková Liptáková,114
+125-Valentín Lipták Lipták,125,is child of,113-Ondrej Lipták Lipták,113
+125-Valentín Lipták Lipták,125,is child of,114-Mária Marušáková Liptáková,114
+119-Dušan Klapáč Klapáč,119,is child of,117-Margita Marušáková Klapáčová,117
+119-Dušan Klapáč Klapáč,119,is child of,118- Klapáč Klapáč,118
+120-Imrich Klapáč Klapáč,120,is child of,117-Margita Marušáková Klapáčová,117
+120-Imrich Klapáč Klapáč,120,is child of,118- Klapáč Klapáč,118
+121-Jozef Klapáč Klapáč,121,is child of,117-Margita Marušáková Klapáčová,117
+121-Jozef Klapáč Klapáč,121,is child of,118- Klapáč Klapáč,118
+122-Helena Klapáčová ,122,is child of,117-Margita Marušáková Klapáčová,117
+122-Helena Klapáčová ,122,is child of,118- Klapáč Klapáč,118
+123-Žofia Klapáčová ,123,is child of,117-Margita Marušáková Klapáčová,117
+123-Žofia Klapáčová ,123,is child of,118- Klapáč Klapáč,118
+124-Ján Klapáč Klapáč,124,is child of,117-Margita Marušáková Klapáčová,117
+124-Ján Klapáč Klapáč,124,is child of,118- Klapáč Klapáč,118
+179-Ľudmila Bílá ,179,is child of,177-Matěj Bílý Bílý,177
+179-Ľudmila Bílá ,179,is child of,178-Ľudmila Horanská Bílá,178
+178-Ľudmila Horanská Bílá,178,is child of,2-Štefan Horanský Horanský,2
+178-Ľudmila Horanská Bílá,178,is child of,4-Mária Košťányová Horanská,4
+180-Maxmilián Horanský Horanský,180,is child of,2-Štefan Horanský Horanský,2
+180-Maxmilián Horanský Horanský,180,is child of,4-Mária Košťányová Horanská,4
+229-Eva Horanská Kubaská,229,is child of,180-Maxmilián Horanský Horanský,180
+229-Eva Horanská Kubaská,229,is child of,222-Eva Pančušková Horanská,222
+230-Pavol Horanský Horanský,230,is child of,180-Maxmilián Horanský Horanský,180
+230-Pavol Horanský Horanský,230,is child of,222-Eva Pančušková Horanská,222
+231-Marek Horanský Horanský,231,is child of,230-Pavol Horanský Horanský,230
+231-Marek Horanský Horanský,231,is child of,171-Ľubomíra Liptáková Horanská,171
+232-Michal Horanský Horanský,232,is child of,230-Pavol Horanský Horanský,230
+232-Michal Horanský Horanský,232,is child of,171-Ľubomíra Liptáková Horanská,171
+233-Max Horanský Horanský,233,is child of,230-Pavol Horanský Horanský,230
+233-Max Horanský Horanský,233,is child of,171-Ľubomíra Liptáková Horanská,171
+190-Mária Botorče Hrubá,190,is child of,186-Ľudmila Srnková Botorče,186
+190-Mária Botorče Hrubá,190,is child of,187-Štefan Botorče Botorče,187
+192-Ernest Botorče Botorče,192,is child of,186-Ľudmila Srnková Botorče,186
+192-Ernest Botorče Botorče,192,is child of,187-Štefan Botorče Botorče,187
+194-Viliam Botorče Botorče,194,is child of,186-Ľudmila Srnková Botorče,186
+194-Viliam Botorče Botorče,194,is child of,187-Štefan Botorče Botorče,187
+196-Štefan Botorče Botorče,196,is child of,186-Ľudmila Srnková Botorče,186
+196-Štefan Botorče Botorče,196,is child of,187-Štefan Botorče Botorče,187
+197-Ilona Ďordika Botorče Pančušková,197,is child of,186-Ľudmila Srnková Botorče,186
+197-Ilona Ďordika Botorče Pančušková,197,is child of,187-Štefan Botorče Botorče,187
+198-Václav Pančuška Pančuška,198,is child of,188-Zuzana Petö Pančušková,188
+198-Václav Pančuška Pančuška,198,is child of,189-Emil Pančuška Pančuška,189
+199-Anna Pančušková Kunová,199,is child of,188-Zuzana Petö Pančušková,188
+199-Anna Pančušková Kunová,199,is child of,189-Emil Pančuška Pančuška,189
+203-Veronika Hrubá ,203,is child of,190-Mária Botorče Hrubá,190
+203-Viera Hrubá ,203,is child of,191-Jozef Hrubý Hrubý,191
+204-Dita Hrubá ,204,is child of,190-Mária Botorče Hrubá,190
+204-Dita Hrubá ,204,is child of,191-Jozef Hrubý Hrubý,191
+205-Dušan Hrubý Hrubý,205,is child of,190-Mária Botorče Hrubá,190
+205-Dušan Hrubý Hrubý,205,is child of,191-Jozef Hrubý Hrubý,191
+206-Táňa Hrubá ,206,is child of,190-Mária Botorče Hrubá,190
+206-Táňa Hrubá ,206,is child of,191-Jozef Hrubý Hrubý,191
+207-Herta Hrubá ,207,is child of,190-Mária Botorče Hrubá,190
+207-Herta Hrubá ,207,is child of,191-Jozef Hrubý Hrubý,191
+208-Marián Botorče Botorče,208,is child of,192-Ernest Botorče Botorče,192
+208-Marián Botorče Botorče,208,is child of,193-Manci Lelkešová Botorče,193
+209-Ivan Botorče Botorče,209,is child of,192-Ernest Botorče Botorče,192
+209-Ivan Botorče Botorče,209,is child of,193-Manci Lelkešová Botorče,193
+210-Ernest Botorče Botorče,210,is child of,192-Ernest Botorče Botorče,192
+210-Ernest Botorče Botorče,210,is child of,193-Manci Lelkešová Botorče,193
+211-Viliam Botorče Botorče,211,is child of,192-Ernest Botorče Botorče,192
+211-Viliam Botorče Botorče,211,is child of,193-Manci Lelkešová Botorče,193
+212-Magda Botorče ,212,is child of,192-Ernest Botorče Botorče,192
+212-Magda Botorče ,212,is child of,193-Manci Lelkešová Botorče,193
+213-Terézia Botorče ,213,is child of,194-Viliam Botorče Botorče,194
+213-Terézia Botorče ,213,is child of,195-Jozefína Kalmanová Botorče,195
+214-Kamila Botorče ,214,is child of,194-Viliam Botorče Botorče,194
+214-Kamila Botorče ,214,is child of,195-Jozefína Kalmanová Botorče,195
+215-Silvia Botorče ,215,is child of,194-Viliam Botorče Botorče,194
+215-Silvia Botorče ,215,is child of,195-Jozefína Kalmanová Botorče,195
+216-Václav Pančuška Pančuška,216,is child of,198-Václav Pančuška Pančuška,198
+216-Václav Pančuška Pančuška,216,is child of,197-Ilona Ďordika Botorče Pančušková,197
+220-Eduard Pančuška Pančuška,220,is child of,198-Václav Pančuška Pančuška,198
+220-Eduard Pančuška Pančuška,220,is child of,197-Ilona Ďordika Botorče Pančušková,197
+222-Eva Pančušková Horanská,222,is child of,198-Václav Pančuška Pančuška,198
+222-Eva Pančušková Horanská,222,is child of,197-Ilona Ďordika Botorče Pančušková,197
+201-Jurína Kunová Sláviková,201,is child of,199-Anna Pančušková Kunová,199
+201-Jurína Kunová Sláviková,201,is child of,200-Ladislav Kuna Kuna,200
+202-Juraj Kuna Kuna,202,is child of,199-Anna Pančušková Kunová,199
+202-Juraj Kuna Kuna,202,is child of,200-Ladislav Kuna Kuna,200
+223-Ivana Pančušková ,223,is child of,220-Eduard Pančuška Pančuška,220
+223-Ivana Pančušková ,223,is child of,221-Daniela Santnerová Pančušková,221
+224-Eduard Pančuška Pančuška,224,is child of,220-Eduard Pančuška Pančuška,220
+224-Eduard Pančuška Pančuška,224,is child of,221-Daniela Santnerová Pančušková,221
+225-Elena Pančušková Mrázová,225,is child of,220-Eduard Pančuška Pančuška,220
+225-Elena Pančušková Mrázová,225,is child of,221-Daniela Santnerová Pančušková,221
+227-Andrea Pančušková Krištofovičová,227,is child of,220-Eduard Pančuška Pančuška,220
+227-Andrea Pančušková Krištofovičová,227,is child of,221-Daniela Santnerová Pančušková,221
+235-Ján Mráz Mráz,235,is child of,225-Elena Pančušková Mrázová,225
+235-Ján Mráz Mráz,235,is child of,226-Ján Mráz ,226
+236-Lenka Mrázová ,236,is child of,225-Elena Pančušková Mrázová,225
+236-Lenka Mrázová ,236,is child of,226-Ján Mráz ,226
+237-Barbora Krištofovičová ,237,is child of,227-Andrea Pančušková Krištofovičová,227
+237-Barbora Krištofovičová ,237,is child of,228- Krištofovič ,228
+238-Hana Krištofovičová ,238,is child of,227-Andrea Pančušková Krištofovičová,227
+238-Hana Krištofovičová ,238,is child of,228- Krištofovič ,228
+218-Zuzana Pančušková ,218,is child of,216-Václav Pančuška Pančuška,216
+218-Zuzana Pančušková ,218,is child of,217-Soňa Rievajová Pančušková,217
+219-Katarína Pančušková ,219,is child of,216-Václav Pančuška Pančuška,216
+219-Katarína Pančušková ,219,is child of,217-Soňa Rievajová Pančušková,217
+4-Mária Košťányová Horanská,4,is child of,239- Košťány Košťány,239
+5-Aranka Košťányová Kosmálová,5,is child of,239- Košťány Košťány,239
+6-Karolína Košťányová Sobotovičová,6,is child of,239- Košťány Košťány,239
+7-Štefan Košťány Košťány,7,is child of,239- Košťány Košťány,239
+8-Jozef Košťány Košťány,8,is child of,239- Košťány Košťány,239
+9-Marcela Košťányová Poturnajová,9,is child of,239- Košťány Košťány,239
+10-Irena Košťányová Košťányová,10,is child of,239- Košťány Košťány,239
+101-Veronika Marušáková Stahovcová,101,is child of,240- Marušák Marušák,240
+101-Veronika Marušáková Stahovcová,101,is child of,241-Verona ?  Marušáková,241
+114-Mária Marušáková Liptáková,114,is child of,240- Marušák Marušák,240
+114-Mária Marušáková Liptáková,114,is child of,241-Verona ?  Marušáková,241
+102-Anna Marušáková Stahovcová,102,is child of,240- Marušák Marušák,240
+102-Anna Marušáková Stahovcová,102,is child of,241-Verona ?  Marušáková,241
+242-Ján Marušák Marušák,242,is child of,240- Marušák Marušák,240
+242-Ján Marušák Marušák,242,is child of,241-Verona ?  Marušáková,241
+244-Eva Kubaská ,244,is child of,243-Juraj Kubaský Kubaský,243
+244-Eva Kubaská ,244,is child of,229-Eva Horanská Kubaská,229

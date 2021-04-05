@@ -1,0 +1,245 @@
+﻿ID,GIVENNAME,BIRTHNAME,SURNAME,SEX,TITLE,BORN_Y,BORN_M,BORN_D,BORN_LOC,BORN_CTRY,DIED_Y,DIED_M,DIED_D,DIED_LOC,DIED_CTRY,NOTES,REF
+1,Pavel,Horanský,Horanský,M,,,,,_unknown_,Rakúsko-Uhorsko,,,,_unknown_,_unknown_,,1-Pavel Horanský Horanský
+2,Štefan,Horanský,Horanský,M,,1909,,,Slovenská Ves,Rakúsko-Uhorsko,1989,,,Piešťany,ČSSR,,2-Štefan Horanský Horanský
+3,Zuzana,Horanská,Budzáková,F,,1905,,,_unknown_,Rakúsko-Uhorsko,1985,,,Slovenská Ves,ČSSR,,3-Zuzana Horanská Budzáková
+4,Mária,Košťányová,Horanská,F,,1912,,,Šalgočka,Rakúsko-Uhorsko,1987,,,Piešťany,ČSSR,,4-Mária Košťányová Horanská
+5,Aranka,Košťányová,Kosmálová,F,,1902,,,_unknown_,Rakúsko-Uhorsko,1964,,,Šalgočka,ČSSR,,5-Aranka Košťányová Kosmálová
+6,Karolína,Košťányová,Sobotovičová,F,,1903,,,_unknown_,Rakúsko-Uhorsko,1990,,,_unknown_,SR,,6-Karolína Košťányová Sobotovičová
+7,Štefan,Košťány,Košťány,M,,,,,Šalgočka,Rakúsko-Uhorsko,,,,_unknown_,_unknown_,,7-Štefan Košťány Košťány
+8,Jozef,Košťány,Košťány,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,8-Jozef Košťány Košťány
+9,Marcela,Košťányová,Poturnajová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,9-Marcela Košťányová Poturnajová
+10,Irena,Košťányová,Košťányová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,10-Irena Košťányová Košťányová
+11,Karol,Košťány,,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,11-Karol Košťány 
+12,Michal,Poturnaj,Poturnaj,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,12-Michal Poturnaj Poturnaj
+13,Angela,,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,13-Angela  
+14,Františka,,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,14-Františka  
+15,Ignác,Sobotovič,Sobotovič,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,15-Ignác Sobotovič Sobotovič
+16,Karol,Kosmál,Kosmál,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,16-Karol Kosmál Kosmál
+17,Štefánia,Košťányová,Drápalová,F,,,,,_unknown_,_unknown_,,,,Piešťany,_unknown_,krstná mama Pištika,17-Štefánia Košťányová Drápalová
+18,Miroslav,Košťány,Košťány,M,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,18-Miroslav Košťány Košťány
+19,Eva,Košťányová,Mihinová,F,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,Sereď,19-Eva Košťányová Mihinová
+20,Igor,Mihina,Mihina,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,20-Igor Mihina Mihina
+21,Igor,Mihina,Mihina,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,21-Igor Mihina Mihina
+22,Štefan,Drápal,Drápal,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,22-Štefan Drápal Drápal
+23,Peter,Drápal,Drápal,M,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,23-Peter Drápal Drápal
+24,Mária,Drápalová,Homolová,F,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,Marika,24-Mária Drápalová Homolová
+25,Eva,Drápalová,Haringová,F,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,Evilka,25-Eva Drápalová Haringová
+26,Jana,Podolská,Drápalová,F,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,26-Jana Podolská Drápalová
+27,Jaroslav,Homola,Homola,M,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,27-Jaroslav Homola Homola
+28,Anton,Haring,Haring,M,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,28-Anton Haring Haring
+29,Anton,Haring,Haring,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,29-Anton Haring Haring
+30,Martin,Homola,Homola,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,30-Martin Homola Homola
+31,Mária,Homolová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,31-Mária Homolová 
+32,Peter,Drápal,Drápal,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,32-Peter Drápal Drápal
+33,Jozef,Drápal,Drápal,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,33-Jozef Drápal Drápal
+34,Miroslav,Košťány,Košťány,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,34-Miroslav Košťány Košťány
+35,Jozef,Košťány,Košťány,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,35-Jozef Košťány Košťány
+36,Milan,Košťány,Košťány,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,36-Milan Košťány Košťány
+37,Milka,Košťányová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,37-Milka Košťányová 
+38,Anna,Košťányová,Košťányová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,38-Anna Košťányová Košťányová
+39,Ján,Poturnaj,Poturnaj,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,39-Ján Poturnaj Poturnaj
+40,Mária,Poturnajová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,40-Mária Poturnajová 
+41,Vladimír,Poturnaj,,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,ujo Vlado,41-Vladimír Poturnaj 
+42,Anna,,Poturnajová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,42-Anna  Poturnajová
+43,Jozef,Košťány,Košťány,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,43-Jozef Košťány Košťány
+44,František,Košťány,Košťány,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,44-František Košťány Košťány
+45,Veronika,Košťányová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,45-Veronika Košťányová 
+46,Jana,Košťányová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,46-Jana Košťányová 
+47,Kamil,Poturnaj,,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,47-Kamil Poturnaj 
+48,Július,Budzák,Budzák,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,48-Július Budzák Budzák
+49,Gizela,Budzáková,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,NSR,49-Gizela Budzáková 
+50,Július,Budzák,Budzák,M,,1935,,,_unknown_,Československo,2007,,,Slovenská Ves,SR,,50-Július Budzák Budzák
+51,Júlia,Jevicová,Budzáková,F,,1939,,,_unknown_,Československo,,,,_unknown_,_unknown_,,51-Júlia Jevicová Budzáková
+52,Štefan,Kosmál,Kosmál,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,52-Štefan Kosmál Kosmál
+53,Cecília,Kosmálová,Divincová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,53-Cecília Kosmálová Divincová
+54,Rudolf,Kosmál,Kosmál,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,54-Rudolf Kosmál Kosmál
+55,Veronika,Kosmálová,Juricová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,Ražňany,55-Veronika Kosmálová Juricová
+56,Františka,,Sobotovičová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,56-Františka  Sobotovičová
+57,Ludvík,Sobotovič,Sobotovič,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,57-Ludvík Sobotovič Sobotovič
+58,,Královič,Královič,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,58- Královič Královič
+59,Cecília,Sobotovičová,Královičová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,59-Cecília Sobotovičová Královičová
+60,Marta,Královičová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,60-Marta Královičová 
+61,Vincent,Královič,Královič,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,61-Vincent Královič Královič
+62,Vladimír,Jurica,Jurica,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,62-Vladimír Jurica Jurica
+63,Dušan,Jurica,Jurica,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,Ražňany,63-Dušan Jurica Jurica
+64,Karol,Divinec,Divinec,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,64-Karol Divinec Divinec
+65,Jozefína,,Kosmálová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,65-Jozefína  Kosmálová
+66,Terézia,Juricová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,Ražňany,66-Terézia Juricová 
+67,Dorota,Juricová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,Ražňany,67-Dorota Juricová 
+68,Juraj,Jurica,Jurica,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,Ražňany,68-Juraj Jurica Jurica
+69,Veronika,Juricová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,Ražňany,69-Veronika Juricová 
+70,Kristína,Juricová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,70-Kristína Juricová 
+71,Martin,Jurica,Jurica,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,71-Martin Jurica Jurica
+72,Lucia,Juricová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,72-Lucia Juricová 
+73,Danka,Divincová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,73-Danka Divincová 
+74,Jana,Divincová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,74-Jana Divincová 
+75,Matej,,,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,75-Matej  
+76,Miroslav,,,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,76-Miroslav  
+77,Eva,Kosmálová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,77-Eva Kosmálová 
+78,Anton,Kosmál,Kosmál,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,78-Anton Kosmál Kosmál
+79,Alena,Kosmálová,Melicherová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,79-Alena Kosmálová Melicherová
+80,Anna,Kosmálová,Profousová,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,80-Anna Kosmálová Profousová
+81,Štefan,Kosmál,Kosmál,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,81-Štefan Kosmál Kosmál
+82,Miroslav,Melicher,Melicher,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,82-Miroslav Melicher Melicher
+83,Pavel,Profous,Profous,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,83-Pavel Profous Profous
+84,Miroslav,Melicher,Melicher,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,84-Miroslav Melicher Melicher
+85,Martin,Melicher,Melicher,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,85-Martin Melicher Melicher
+86,Tomáš,Profous,Profous,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,86-Tomáš Profous Profous
+87,Zuzana,Profousová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,87-Zuzana Profousová 
+88,Ivana,Profousová,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,88-Ivana Profousová 
+89,Jana,Budzáková,Hanigovská,F,,1964,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,89-Jana Budzáková Hanigovská
+90,Júlia,Budzáková,Úrodová,F,,1966,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,90-Júlia Budzáková Úrodová
+91,Danka,Budzáková,Milkovská,F,,1974,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,91-Danka Budzáková Milkovská
+92,Peter,Hanigovský,Hanigovský,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,92-Peter Hanigovský Hanigovský
+93,Jozef,Milkovský,Milkovský,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,93-Jozef Milkovský Milkovský
+94,Jozef,Úroda,Úroda,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,94-Jozef Úroda Úroda
+95,Zuzana,Úrodová,,F,,1998,,,_unknown_,SR,,,,_unknown_,_unknown_,,95-Zuzana Úrodová 
+96,Jozef,Úroda,Úroda,M,,1994,,,_unknown_,SR,,,,_unknown_,_unknown_,,96-Jozef Úroda Úroda
+97,Dávid,Milkovský,Milkovský,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,97-Dávid Milkovský Milkovský
+98,Martin,Hanigovský,Hanigovský,M,,1995,,,_unknown_,SR,,,,_unknown_,_unknown_,,98-Martin Hanigovský Hanigovský
+99,Peter,Hanigovský,Hanigovský,M,,1990,,,_unknown_,SR,,,,_unknown_,_unknown_,,99-Peter Hanigovský Hanigovský
+100,Valent,Stahovec,Stahovec,M,,1912,,,Hrabkov,Rakúsko-Uhorsko,1980,,,Hrabkov,ČSSR,gazda,100-Valent Stahovec Stahovec
+101,Veronika,Marušáková,Stahovcová,F,,1910,,,Hrabkov,Rakúsko-Uhorsko,1980,,,Hrabkov,ČSSR,domáca,101-Veronika Marušáková Stahovcová
+102,Anna,Marušáková,Stahovcová,F,,1908,,,Hrabkov,Rakúsko-Uhorsko,1970,,,Hrabkov,ČSSR,domáca,102-Anna Marušáková Stahovcová
+103,Ján,Stahovec,Stahovec,M,,1908,,,Hrabkov,Rakúsko-Uhorsko,1980,,,Hrabkov,ČSSR,richtár,103-Ján Stahovec Stahovec
+104,Margita,Stahovcová,Forišová,F,,1930,,,Hrabkov,Československo,1970,,,Hrabkov,ČSSR,domáca,104-Margita Stahovcová Forišová
+105,Žofia,Stahovcová,Bujnovská,F,,1934,,,Hrabkov,Československo,2005,,,Hrabkov,SR,domáca,105-Žofia Stahovcová Bujnovská
+106,Alojz,Stahovec,Stahovec,M,,1940,,,Hrabkov,Slovenský štát,,,,_unknown_,_unknown_,skladník na družstve,106-Alojz Stahovec Stahovec
+107,Margita,Vincová,Stahovcová,F,,1942,,,Hrabkov,Slovenský štát,,,,_unknown_,_unknown_,domáca,107-Margita Vincová Stahovcová
+108,Pavol,Bujnovský,Bujnovský,M,,1930,,,Drienovská Nová Ves,Československo,2018,,,Hrabkov,SR,"učiteľ v Križovanoch, Hrabkove",108-Pavol Bujnovský Bujnovský
+109,Ján,Foriš,Foriš,M,,1929,,,Hrabkov,Československo,,,,Hrabkov,_unknown_,elektrikár,109-Ján Foriš Foriš
+110,Eva,Bujnovská,,F,,1950,,,Hrabkov,ČSSR,,,,_unknown_,_unknown_,reštaurácia,110-Eva Bujnovská 
+111,Miroslav,Bujnovský,Bujnovský,M,,1952,,,Hrabkov,ČSSR,,,,_unknown_,_unknown_,elektrikár,111-Miroslav Bujnovský Bujnovský
+112,Ľubomíra,Bujnovská,,F,,1956,,,Hrabkov,ČSSR,2002,,,Hrabkov,SR,ekonómka,112-Ľubomíra Bujnovská 
+113,Ondrej,Lipták,Lipták,M,,1890,,,Hrabkov,Rakúsko-Uhorsko,1916,,,_unknown_,Rusko,čižmár,113-Ondrej Lipták Lipták
+114,Mária,Marušáková,Liptáková,F,,1892,,,Hrabkov,Rakúsko-Uhorsko,1919,,,Hrabkov,Československo,špan chrípka,114-Mária Marušáková Liptáková
+115,Ľudovít,Wintner,Wintner,M,,1896,,,Prešov,Rakúsko-Uhorsko,1978,,,Prešov,ČSSR,"učiteľ Dúbrava, Prešov, Križovany",115-Ľudovít Wintner Wintner
+116,Margita,Vansová,Wintnerová,F,,1896,,,Jablonov-Lúčky,Rakúsko-Uhorsko,1982,,,Prešov,ČSSR,"učiteľka Harakovce, Dúbrava",116-Margita Vansová Wintnerová
+117,Margita,Marušáková,Klapáčová,F,,1910,,,Hrabkov,Rakúsko-Uhorsko,1970,,,Hrabkov,ČSSR,Bolondziková,117-Margita Marušáková Klapáčová
+118,Jozef,Klapáč,Klapáč,M,,1905,,,Hrabkov,Rakúsko-Uhorsko,1968,,,Hrabkov,ČSSR,"Bolondzik, priekupník koží, vyšľachtil Hr. Chrupku",118-Jozef Klapáč Klapáč
+119,Dušan,Klapáč,Klapáč,M,,1951,,,Hrabkov,ČSSR,,,,_unknown_,_unknown_,ovocinár,119-Dušan Klapáč Klapáč
+120,Imrich,Klapáč,Klapáč,M,,1944,,,Hrabkov,Slovenský štát,1969,,,_unknown_,USA,"elektrikár, stratený",120-Imrich Klapáč Klapáč
+121,Jozef,Klapáč,Klapáč,M,,1940,,,Hrabkov,Slovenský štát,1985,,,Čierne,ČSSR,učiteľ Sačurov,121-Jozef Klapáč Klapáč
+122,Helena,Klapáčová,,F,,1935,,,Hrabkov,Československo,2009,,,Michalovce,SR,ekonómka,122-Helena Klapáčová 
+123,Žofia,Klapáčová,,F,,1937,,,Hrabkov,Československo,,,,_unknown_,_unknown_,"Prešov, ekonómka",123-Žofia Klapáčová 
+124,Ján,Klapáč,Klapáč,M,,1946,,,Hrabkov,Slovenský štát,1988,,,Prešov,ČSSR,strojník,124-Ján Klapáč Klapáč
+125,Valentín,Lipták,Lipták,M,,1914,11,11,Hrabkov,Rakúsko-Uhorsko,1982,,,Prešov,ČSSR,učiteľ mat zemepis,125-Valentín Lipták Lipták
+126,Valéria,Wintnerová,Liptáková,F,,1918,6,22,Dúbrava,Rakúsko-Uhorsko,1961,,,Prešov,ČSSR,učiteľka SJ výtvarná,126-Valéria Wintnerová Liptáková
+127,Margita,Wintnerová,Krličková,F,,1916,,,Dúbrava,Rakúsko-Uhorsko,2009,,,Košice,SR,učiteľka Helcmanovce,127-Margita Wintnerová Krličková
+128,Ján,Krlička,Krlička,M,,1911,,,Banská Bystrica,Rakúsko-Uhorsko,2005,,,Košice,SR,"gr kat farár, Helcmanovce, Sačurov, Michalovce",128-Ján Krlička Krlička
+129,Alexandra,Krličková,,F,,1939,,,Helcmanovce,Československo,,,,_unknown_,_unknown_,Děčín,129-Alexandra Krličková 
+130,error,error,error,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,130-error error error
+131,Maroš,Krlička,Krlička,M,,1940,,,Helcmanovce,Slovenský štát,,,,_unknown_,_unknown_,fotograf,131-Maroš Krlička Krlička
+132,Hilár,Krlička,Krlička,M,,1942,,,Helcmanovce,Slovenský štát,2008,,,Suchá Dolina,SR,kuchár,132-Hilár Krlička Krlička
+133,Gorazd,Krlička,Krlička,M,,1945,,,Helcmanovce,Slovenský štát,,,,_unknown_,_unknown_,"priekupník s umením, strelmajster cez hnoj a v Lýbii",133-Gorazd Krlička Krlička
+134,Ján,Krlička,Krlička,M,,1955,,,Helcmanovce,ČSSR,,,,_unknown_,_unknown_,"strelmajster cez hnoj, rezbár",134-Ján Krlička Krlička
+135,Michal,Skorodenský,Skorodenský,M,,1890,,,_unknown_,Rakúsko-Uhorsko,1941,,,Poproč,Maďarsko,kožušník v Belži,135-Michal Skorodenský Skorodenský
+136,Katarína,Tobáková,Skorodenská,F,,1896,,,Košice,Rakúsko-Uhorsko,1934,,,Belža,Československo,domáca,136-Katarína Tobáková Skorodenská
+137,Janette,,Skorodenská,F,,1909,,,Paríž,Francúzsko,,,,Paríž,Francúzsko,"Paríž, dekoratérka, maliarka, expresionizmus, textil",137-Janette  Skorodenská
+138,Vojtech,Skorodenský,Skorodenský,M,,1901,,,Belža,Rakúsko-Uhorsko,1978,,,Paríž,Francúzsko,"Paríž, kožušník od 1923",138-Vojtech Skorodenský Skorodenský
+139,Albert ?,Markus,Markus,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,"starší od manželky Ilony, maďarský Žid",139-Albert ? Markus Markus
+140,Ilona,Skorodenská,Markusová,F,,1897,,,Belža,Rakúsko-Uhorsko,,,,Paríž,Francúzsko,"po sobáši domáca v Maďarsku, ako vdova kožušníčka v Paríži",140-Ilona Skorodenská Markusová
+141,Vilma,Skorodenská,Chejnovská,F,,1899,,,Belža,Rakúsko-Uhorsko,1988,,,Tábor,ČSSR,"kožušníčka, Tábor Čechy",141-Vilma Skorodenská Chejnovská
+142,Július,Skorodenský,Skorodenský,M,,1896,,,Belža,Rakúsko-Uhorsko,1975,,,Paríž,Francúzsko,kožušník v Paríži od 1923,142-Július Skorodenský Skorodenský
+143,Klára,Kreutzerová,Skorodenská,F,,1913,,,Smolník,Rakúsko-Uhorsko,1988,,,Košice,ČSSR,"otec pijan, ona učiteľka ZŠ, potom osobitnej školy",143-Klára Kreutzerová Skorodenská
+144,Viktor,Skorodenský,Skorodenský,M,,1915,1,15,Belža,Rakúsko-Uhorsko,2002,1,11,Košice,SR,"gr kat farár, Belža, Košice, spisovateľ, ",144-Viktor Skorodenský Skorodenský
+145,Júlia,,Skorodenská,F,,1916,,,Trebišov,Rakúsko-Uhorsko,1966,,,Trebišov,ČSSR,domáca,145-Júlia  Skorodenská
+146,Michal,Skorodenský,Skorodenský,M,,1911,,,Belža,Rakúsko-Uhorsko,1978,,,Trebišov,ČSSR,"bankový riaditeľ, Trebišov Michalovce, Bratislava",146-Michal Skorodenský Skorodenský
+147,Jozef,Boldižár,Boldižár,M,,1914,4,19,Milhosť,Rakúsko-Uhorsko,1943,,,_unknown_,Rusko,"klampiar, obchodník, padol ako maďarský vojak",147-Jozef Boldižár Boldižár
+148,Katarína,Skorodenská,Boldižárová,F,,1919,12,16,Belža,Československo,1987,,,Košice,ČSSR,domáca,148-Katarína Skorodenská Boldižárová
+149,Oľga,Skorodenská,,F,,1937,,,_unknown_,Československo,,,,_unknown_,_unknown_,lekárka,149-Oľga Skorodenská 
+150,Soňa,Skorodenská,,F,,1939,,,Trebišov,Československo,,,,_unknown_,_unknown_,ing ekonóm,150-Soňa Skorodenská 
+151,Miroslav,Skorodenský,Skorodenský,M,,1949,,,Košice,ČSSR,2015,,,Košice,SR,psychológ,151-Miroslav Skorodenský Skorodenský
+152,Viera,,Skorodenská,F,,1949,,,Košice,ČSSR,,,,_unknown_,_unknown_,"učiteľka, žije v Anglicku u syna",152-Viera  Skorodenská
+153,Viktor,Skorodenský,Skorodenský,M,,1940,4,13,Košice,Slovenský štát,2004,12,24,Košice,SR,stavbyvedúci,153-Viktor Skorodenský Skorodenský
+154,Petronela,Krličková,Skorodenská,F,,1944,1,21,Helcmanovce,Slovenský štát,,,,_unknown_,_unknown_,"Babeca, záhradná architektka",154-Petronela Krličková Skorodenská
+155,Gréta,Skorodenská,Makarová,F,,1939,,,Košice,Československo,2000,,,Trebišov,SR,banková úradníčka,155-Gréta Skorodenská Makarová
+156,Štefan,Makara,Makara,M,,1926,,,Kapišová,Československo,2006,,,Košice,SR,bankový menežer,156-Štefan Makara Makara
+157,Štefan,Makara,Makara,M,,1965,,,Košice,ČSSR,,,,_unknown_,_unknown_,klient u Mariána Kuffu,157-Štefan Makara Makara
+158,Mária,Makarová,,F,,1967,,,Košice,ČSSR,2016,,,Plzeň,Česko,"ekonómka, samovražda",158-Mária Makarová 
+159,Viktor,Skorodenský,Skorodenský,M,,1973,,,Košice,ČSSR,,,,_unknown_,_unknown_,"Viki, záhradný architekt",159-Viktor Skorodenský Skorodenský
+160,Richard,Skorodenský,Skorodenský,M,,1969,,,Košice,ČSSR,,,,_unknown_,_unknown_,"Riki, záhradný architekt",160-Richard Skorodenský Skorodenský
+161,Viera,Skorodenská,,F,,1975,,,Košice,ČSSR,,,,_unknown_,_unknown_,psychologička,161-Viera Skorodenská 
+162,Roman,Skorodenský,Skorodenský,M,,1972,,,Košice,ČSSR,,,,_unknown_,_unknown_,"bezdomovec, v Trebišove v ústave",162-Roman Skorodenský Skorodenský
+163,Miroslav,Skorodenský,Skorodenský,M,,1980,,,Košice,ČSSR,,,,_unknown_,_unknown_,strojník v Anglicku,163-Miroslav Skorodenský Skorodenský
+164,Felix,Reitzner,Reitzner,M,,1923,,,_unknown_,Československo,1994,,,Košice,SR,"Bodo, rozpočtár, všeumelec",164-Felix Reitzner Reitzner
+165,Etela,Boldižárová,Reitznerová,F,,1940,,,Belža,Slovenský štát,,,,_unknown_,_unknown_,ekonómka,165-Etela Boldižárová Reitznerová
+166,Helena,Boldižárová,Liptáková,F,,1943,5,7,Poproč,Maďarsko,,,,_unknown_,_unknown_,obchodník s magnezitom,166-Helena Boldižárová Liptáková
+167,Ľubomír,Lipták,Lipták,M,,1944,2,20,Prešov,Slovenský štát,,,,_unknown_,_unknown_,"projektant, technický inšpektor",167-Ľubomír Lipták Lipták
+168,Lýdia,Liptáková,Liptáková,F,,1945,6,22,Prešov,Slovenský štát,2016,,,Prešov,SR,železničiarka,168-Lýdia Liptáková Liptáková
+169,Slavomír,Lipták,Lipták,M,,1970,3,,Prešov,ČSSR,,,,_unknown_,_unknown_,policajt,169-Slavomír Lipták Lipták
+170,Mária,Birčáková,Liptáková,F,,1972,,,Drienica,ČSSR,,,,_unknown_,_unknown_,fitness trénerka,170-Mária Birčáková Liptáková
+171,Ľubomíra,Liptáková,Horanská,F,PhD,1970,2,5,Košice,ČSSR,,,,_unknown_,_unknown_,matematička,171-Ľubomíra Liptáková Horanská
+172,Zuzana,Liptáková,Bodíková,F,,1968,11,12,Košice,ČSSR,,,,_unknown_,_unknown_,,172-Zuzana Liptáková Bodíková
+173,Rastislav,Bodík,Bodík,M,,1968,12,,Košice,ČSSR,,,,_unknown_,_unknown_,,173-Rastislav Bodík Bodík
+174,Hugo-Belo,Bodík,Bodík,M,,2003,5,1,Berkeley,USA,,,,_unknown_,_unknown_,,174-Hugo-Belo Bodík Bodík
+175,Ingrid,Reitznerová,Kašperová,F,,1973,,,Košice,ČSSR,,,,_unknown_,_unknown_,"učiteľka AJ, Dej",175-Ingrid Reitznerová Kašperová
+176,Henrich,Reitzner,Reitzner,M,,1976,,,Košice,ČSSR,,,,_unknown_,_unknown_,IT admin,176-Henrich Reitzner Reitzner
+177,Matěj,Bílý,Bílý,M,,,,,_unknown_,Československo,,,,_unknown_,_unknown_,,177-Matěj Bílý Bílý
+178,Ľudmila,Horanská,Bílá,F,,1948,,,Piešťany,ČSSR,,,,_unknown_,_unknown_,,178-Ľudmila Horanská Bílá
+179,Ľudmila,Bílá,,F,,1980,,,Bratislava,ČSSR,,,,_unknown_,_unknown_,,179-Ľudmila Bílá 
+180,Maxmilián,Horanský,Horanský,M,,1938,8,28,Šalgočka,Československo,,,,_unknown_,_unknown_,,180-Maxmilián Horanský Horanský
+181,,Pekáriková,Srnková,F,,,,,_unknown_,Rakúsko-Uhorsko,,,,Žilina,Rakúsko-Uhorsko,,181- Pekáriková Srnková
+182,Ladislav,Srnka,Srnka,M,,,,,Žilina,Rakúsko-Uhorsko,,,,Žilina,Československo,,182-Ladislav Srnka Srnka
+183,Amália,Srnková,Bohmoná,F,,,,,Žilina,Rakúsko-Uhorsko,,,,Košice,_unknown_,,183-Amália Srnková Bohmoná
+184,Gizela,Srnková,Pokorná,F,,,,,Žilina,Rakúsko-Uhorsko,,,,Žilina,Československo,,184-Gizela Srnková Pokorná
+185,Vilma,Srnková,Bartanusová,F,,,,,Žilina,Rakúsko-Uhorsko,,,,Košice,Československo,,185-Vilma Srnková Bartanusová
+186,Ľudmila,Srnková,Botorče,F,,1880,,,Liptovská Teplá,Rakúsko-Uhorsko,1965,,,_unknown_,ČSSR,,186-Ľudmila Srnková Botorče
+187,Štefan,Botorče,Botorče,M,,1870,,,Kramnic,Rakúsko-Uhorsko,1961,,,Žilina,ČSSR,,187-Štefan Botorče Botorče
+188,Zuzana,Petö,Pančušková,F,,1890,,,Malatín,Rakúsko-Uhorsko,1989,,,Ivachnová,ČSSR,,188-Zuzana Petö Pančušková
+189,Emanuel,Pančuška,Pančuška,M,,1881,,,Ivachnová,Rakúsko-Uhorsko,1966,,,_unknown_,ČSSR,,189-Emanuel Pančuška Pančuška
+190,Mária,Botorče,Hrubá,F,,1908,,,Žilina,Rakúsko-Uhorsko,1987,,,Žilina,ČSSR,,190-Mária Botorče Hrubá
+191,Jozef,Hrubý,Hrubý,M,,,,,Ostrava,Rakúsko-Uhorsko,,,,Žilina,ČSSR,,191-Jozef Hrubý Hrubý
+192,Ernest,Botorče,Botorče,M,,1901,,,Žilina,Rakúsko-Uhorsko,1960,,,Nitra,ČSSR,,192-Ernest Botorče Botorče
+193,Margita,Lelkešová,Botorče,F,,,,,_unknown_,Rakúsko-Uhorsko,1986,,,Nitra,ČSSR,,193-Margita Lelkešová Botorče
+194,Viliam,Botorče,Botorče,M,,1915,,,Žilina,Rakúsko-Uhorsko,1969,,,Žilina,ČSSR,,194-Viliam Botorče Botorče
+195,Jozefína,Kalmanová,Botorče,F,,1920,,,Žarnovica,Československo,2010,,,_unknown_,_unknown_,,195-Jozefína Kalmanová Botorče
+196,Štefan,Botorče,Botorče,M,,1902,,,Žilina,Rakúsko-Uhorsko,1920,,,Košice,Československo,,196-Štefan Botorče Botorče
+197,Ilona Ďordika,Botorče,Pančušková,F,,1911,,,Žilina,Rakúsko-Uhorsko,1988,,,Bratislava,ČSSR,,197-Ilona Ďordika Botorče Pančušková
+198,Václav,Pančuška,Pančuška,M,,1909,,,Ivachnová,Rakúsko-Uhorsko,2006,,,Bratislava,SR,,198-Václav Pančuška Pančuška
+199,Anna,Pančušková,Kunová,F,,1915,,,Ivachnová,Rakúsko-Uhorsko,,,,Bratislava,Československo,,199-Anna Pančušková Kunová
+200,Ladislav,Kuna,Kuna,M,,1912,,,Sv. Michal,Rakúsko-Uhorsko,2008,,,Bratislava,SR,,200-Ladislav Kuna Kuna
+201,Jurína,Kunová,Sláviková,F,,1943,,,Bratislava,Slovenský štát,,,,_unknown_,_unknown_,Babuša,201-Jurína Kunová Sláviková
+202,Juraj,Kuna,Kuna,M,,1942,,,Bratislava,Slovenský štát,2016,,,Bratislava,SR,,202-Juraj Kuna Kuna
+203,Viera,Hrubá,Lehká,F,,1922,,,_unknown_,Turecko,,,,_unknown_,_unknown_,Bratislava,203-Viera Hrubá Lehká
+204,Dita,Hrubá,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,204-Dita Hrubá 
+205,Dušan,Hrubý,Hrubý,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,205-Dušan Hrubý Hrubý
+206,Táňa,Hrubá,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,206-Táňa Hrubá 
+207,Herta,Hrubá,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,207-Herta Hrubá 
+208,Marián,Botorče,Botorče,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,208-Marián Botorče Botorče
+209,Ivan,Botorče,Botorče,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,209-Ivan Botorče Botorče
+210,Ernest,Botorče,Botorče,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,210-Ernest Botorče Botorče
+211,Viliam,Botorče,Botorče,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,211-Viliam Botorče Botorče
+212,Magda,Botorče,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,212-Magda Botorče 
+213,Terézia,Botorče,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,213-Terézia Botorče 
+214,Kamila,Botorče,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,214-Kamila Botorče 
+215,Silvia,Botorče,,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,215-Silvia Botorče 
+216,Václav,Pančuška,Pančuška,M,Ing,1941,,,Žarnovica,Slovenský štát,,,,_unknown_,_unknown_,procesný inžinier v Kanade,216-Václav Pančuška Pančuška
+217,Soňa,Rievajová,Pančušková,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,217-Soňa Rievajová Pančušková
+218,Zuzana,Pančušková,,F,,,,,Mississauga,Kanada,,,,_unknown_,_unknown_,,218-Zuzana Pančušková 
+219,Katarína,Pančušková,,F,,,,,Mississauga,Kanada,,,,_unknown_,_unknown_,,219-Katarína Pančušková 
+220,Eduard,Pančuška,Pančuška,M,Ing,1937,,,Žarnovica,Československo,,,,_unknown_,_unknown_,"strojný inžinier, slovnaft BA",220-Eduard Pančuška Pančuška
+221,Daniela,Santnerová,Pančušková,F,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,,221-Daniela Santnerová Pančušková
+222,Eva,Pančušková,Horanská,F,MUDr,1939,2,14,Žarnovica,Československo,,,,_unknown_,_unknown_,"pediater Levoča, Piešťany",222-Eva Pančušková Horanská
+223,Ivana,Pančušková,,F,,1979,,,Bratislava,ČSSR,,,,_unknown_,_unknown_,,223-Ivana Pančušková 
+224,Eduard,Pančuška,Pančuška,M,,1970,,,Bratislava,ČSSR,,,,_unknown_,_unknown_,,224-Eduard Pančuška Pančuška
+225,Elena,Pančušková,Mrázová,F,Ing,1957,,,Bratislava,ČSSR,,,,_unknown_,_unknown_,,225-Elena Pančušková Mrázová
+226,Ján,Mráz,,M,,,,,Bratislava,ČSSR,,,,_unknown_,_unknown_,,226-Ján Mráz 
+227,Andrea,Pančušková,Krištofovičová,F,Ing,1964,,,Bratislava,ČSSR,,,,_unknown_,_unknown_,strojná inžinierka,227-Andrea Pančušková Krištofovičová
+228,,Krištofovič,,M,,,,,_unknown_,ČSSR,,,,_unknown_,_unknown_,,228- Krištofovič 
+229,Eva,Horanská,Kubaská,F,JUDr,1964,4,7,Piešťany,ČSSR,,,,_unknown_,_unknown_,"advokátka BA, Nová Dedinka",229-Eva Horanská Kubaská
+230,Pavol,Horanský,Horanský,M,Ing,1970,4,14,Piešťany,ČSSR,,,,_unknown_,_unknown_,"strojný inžinier, IT architekt Tatra banka, BA",230-Pavol Horanský Horanský
+231,Marek,Horanský,Horanský,M,,1998,11,23,Košice,SR,,,,_unknown_,_unknown_,,231-Marek Horanský Horanský
+232,Michal,Horanský,Horanský,M,,2001,7,9,Košice,SR,,,,_unknown_,_unknown_,,232-Michal Horanský Horanský
+233,Max,Horanský,Horanský,M,,2008,3,5,Bratislava,SR,,,,_unknown_,_unknown_,,233-Max Horanský Horanský
+234,Peter,Mihina,Mihina,M,,,,,Sereď,ČSSR,,,,_unknown_,_unknown_,"účtovník, BASF, ...",234-Peter Mihina Mihina
+235,Ján,Mráz,Mráz,M,,1987,,,Bratislava,ČSSR,,,,_unknown_,_unknown_,,235-Ján Mráz Mráz
+236,Lenka,Mrázová,,F,,1989,,,Bratislava,ČSSR,,,,_unknown_,_unknown_,,236-Lenka Mrázová 
+237,Barbora,Krištofovičová,,F,,1992,,,Bratislava,SR,,,,_unknown_,_unknown_,,237-Barbora Krištofovičová 
+238,Hana,Krištofovičová,,F,,1991,,,Bratislava,SR,,,,_unknown_,_unknown_,,238-Hana Krištofovičová 
+239,,Košťány,Košťány,M,,,,,_unknown_,_unknown_,,,,_unknown_,_unknown_,konský handliar,239- Košťány Košťány
+240,,Marušák,Marušák,M,,1850,,,Hrabkov,Rakúsko-Uhorsko,,,,Hrabkov,_unknown_,,240- Marušák Marušák
+241,Verona ?,,Marušáková,F,,1850,,,Ovčie,Rakúsko-Uhorsko,1950,,,Hrabkov,ČSSR,,241-Verona ?  Marušáková
+242,Ján,Marušák,Marušák,M,,1905,,,Hrabkov,Rakúsko-Uhorsko,,,,Hrabkov,_unknown_,,242-Ján Marušák Marušák
+243,Juraj,Kubaský,Kubaský,M,,1967,,,Brezno,ČSSR,,,,_unknown_,_unknown_,"právnik, Polomka, Bratislava",243-Juraj Kubaský Kubaský
+244,Eva,Kubaská,,F,,1996,,,Bratislava,SR,,,,_unknown_,_unknown_,,244-Eva Kubaská 
